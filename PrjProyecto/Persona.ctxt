@@ -1,0 +1,8 @@
+#BlueJ class context
+#Wed Oct 28 16:04:14 CST 2026
+comment0.target=Persona
+comment1.params=id nombre
+comment1.target=Persona(java.lang.String, java.lang.String)
+comment2.target=double devolverCostoActualPrj()
+comment3.target=java.lang.String toString()
+numComments=4
